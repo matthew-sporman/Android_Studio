@@ -7,6 +7,8 @@ local.properties
 
 # Log/OS Files
 *.log
+.DS_Store
+Thumbs.db
 
 # Android Studio generated files and folders
 captures/
@@ -21,6 +23,8 @@ output.json
 misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
+*.iws
+*.ipr
 
 # Keystore files
 *.jks
